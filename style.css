@@ -10,4 +10,21 @@ h1 {
     font-size: 50px;
     font-family: sans-serif;
     font-weight: 500;
+    margin-top: 0em; margin-bottom: 0em;
+}
+
+#goals {
+    text-align: center;
+}
+
+#training {
+    margin-top: 0em; margin-bottom: 0em;
+}
+
+#my-goals {
+    margin-bottom: 0em; margin-top: 1em;
+}
+
+p {
+   margin-top: 0.6em; margin-bottom: 0.6em;
 }
