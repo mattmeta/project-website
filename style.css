@@ -4,4 +4,10 @@ body {
     background-size: cover;
 }
 
-
+h1 {
+    text-align: center;
+    color: rgb(13, 78, 13);
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
