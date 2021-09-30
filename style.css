@@ -40,6 +40,22 @@ p {
 }
 
 footer {
-    text-align: center;
     padding-top: 4em;
+}
+
+address {
+    text-align: center;
+}
+
+#vivi {
+    width: 5%;
+    float: left;
+    padding-left: 15em;
+
+}
+
+#vivi2 {
+    width: 5%;
+    float: right;
+    padding-right: 15em;
 }
