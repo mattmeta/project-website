@@ -28,3 +28,7 @@ h1 {
 p {
    margin-top: 0.6em; margin-bottom: 0.6em;
 }
+
+#about {
+    margin-left: 18em;
+}
