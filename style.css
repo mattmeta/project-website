@@ -30,5 +30,10 @@ p {
 }
 
 #about {
-    margin-left: 18em;
+    margin-left: 22em;
+}
+
+#experience1 {
+    text-align: right;
+    margin-right: 22em;
 }
