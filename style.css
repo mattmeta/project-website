@@ -15,33 +15,27 @@ h1 {
 
 #goals {
     text-align: center;
-    width: auto;
 }
 
 #training {
     margin-top: 0em; margin-bottom: 0em;
-    width: auto;
 }
 
 #my-goals {
     margin-bottom: 0em; margin-top: 1em;
-    width: auto;
 }
 
 p {
    margin-top: 0.6em; margin-bottom: 0.6em;
-   width: auto;
 }
 
 #about {
-    margin-left: 22em;
-    width: auto;
+    text-align: center;
 }
 
 #experience1 {
-    text-align: right;
-    margin-right: 22em;
-    width: auto;
+    text-align: center;
+
 }
 
 footer {
